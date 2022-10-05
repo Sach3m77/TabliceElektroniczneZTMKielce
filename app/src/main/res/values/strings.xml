@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Electronic Timetables ZTM Kielce</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="style_json_no_bus_stops" translatable="false">
+    [
+      {
+        \"featureType\": \"transit.station.bus\",
+        \"stylers\": [
+          {
+            \"visibility\": \"off\"
+          }
+        ]
+      }
+    ]
+    </string>
+    <string name="style_json_dark_mode" translatable="false">
+    [
+      {
+        \"featureType\": \"transit.station.bus\",
+        \"stylers\": [
+          {
+            \"visibility\": \"off\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"all\",
+        \"elementType\": \"geometry\",
+        \"stylers\": [
+          {
+            \"color\": \"#242f3e\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"all\",
+        \"elementType\": \"labels.text.stroke\",
+        \"stylers\": [
+          {
+            \"lightness\": -80
+          }
+        ]
+      },
+      {
+        \"featureType\": \"administrative\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#746855\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"administrative.locality\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#d59563\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"poi\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#d59563\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"poi.park\",
+        \"elementType\": \"geometry\",
+        \"stylers\": [
+          {
+            \"color\": \"#263c3f\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"poi.park\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#6b9a76\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road\",
+        \"elementType\": \"geometry.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#2b3544\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#9ca5b3\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.arterial\",
+        \"elementType\": \"geometry.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#38414e\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.arterial\",
+        \"elementType\": \"geometry.stroke\",
+        \"stylers\": [
+          {
+            \"color\": \"#212a37\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.highway\",
+        \"elementType\": \"geometry.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#746855\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.highway\",
+        \"elementType\": \"geometry.stroke\",
+        \"stylers\": [
+          {
+            \"color\": \"#1f2835\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.highway\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#f3d19c\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.local\",
+        \"elementType\": \"geometry.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#38414e\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"road.local\",
+        \"elementType\": \"geometry.stroke\",
+        \"stylers\": [
+          {
+            \"color\": \"#212a37\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"transit\",
+        \"elementType\": \"geometry\",
+        \"stylers\": [
+          {
+            \"color\": \"#2f3948\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"transit.station\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#d59563\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"water\",
+        \"elementType\": \"geometry\",
+        \"stylers\": [
+          {
+            \"color\": \"#17263c\"
+          }
+        ]
+      },
+    {
+        \"featureType\": \"water\",
+        \"elementType\": \"labels.text.fill\",
+        \"stylers\": [
+          {
+            \"color\": \"#515c6d\"
+          }
+        ]
+      },
+      {
+        \"featureType\": \"water\",
+        \"elementType\": \"labels.text.stroke\",
+        \"stylers\": [
+          {
+            \"lightness\": -20
+          }
+        ]
+      }
+    ]
+    </string>
+
+    /////////main_menu/////////
+
+    <string name="map">Mapa</string>
+    <string name="favorite_stops">Ulubione przystanki</string>
+    <string name="settings">Settings</string>
+
+    /////////activity_favorite/////////
+
+    <string name="no_favorite_stops">No favorite bus stops.</string>
+    <string name="stops_removed_from_favorites">Bus stops removed from favorites</string>
+
+    /////////activity_map/////////
+
+    <string name="stop_added_to_favorites">Bus stop added to favorites</string>
+    <string name="stop_removed_from_favorites">Bus stop removed from favorites</string>
+
+    /////////header_view/////////
+
+    <string name="header_title">Electronic Timetables ZTM</string>
+
+    /////////activity_settings/////////
+
+    <string name="general">General</string>
+    <string name="system">System</string>
+
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+
+    <string name="language">Language</string>
+    <string name="english_language" translatable="false">English</string>
+    <string name="polish_language" translatable="false">Polski</string>
+    <string name="italian_language" translatable="false">Italiano</string>
+
+    <string-array name="theme_entries">
+        <item>@string/system</item>
+        <item>@string/light_theme</item>
+        <item>@string/dark_theme</item>
+    </string-array>
+
+    <string-array name="theme_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="language_entries">
+        <item>@string/system</item>
+        <item>@string/english_language</item>
+        <item>@string/polish_language</item>
+        <item>@string/italian_language</item>
+    </string-array>
+
+    <string-array name="language_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="enter_address">Search here</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tablice elektroniczne ZTM Kielce</string>
+    <string name="navigation_drawer_open">Otwórz szuflade nawigacji</string>
+    <string name="navigation_drawer_close">Zamknij szuflade nawigacji</string>
+    <string name="map">Mapa</string>
+    <string name="favorite_stops">Ulubione przystanki</string>
+    <string name="settings">Ustawienia</string>
+    <string name="no_favorite_stops">Brak ulubionych przystanków.</string>
+    <string name="enter_address">Wyszukaj tutaj</string>
+    <string name="header_title">Tablice Elektroniczne ZTM</string>
+    <string name="general">Ogólne</string>
+    <string name="system">Systemowy</string>
+    <string name="theme">Motyw</string>
+    <string name="light_theme">Jasny</string>
+    <string name="dark_theme">Ciemny</string>
+    <string name="language">Język</string>
+    <string name="stop_added_to_favorites">Dodano przystanek do ulubionych</string>
+    <string name="stop_removed_from_favorites">Usunięto przystanek z ulubionych</string>
+    <string name="stops_removed_from_favorites">Usunięto przystanki z ulubionych</string>
+</resources>

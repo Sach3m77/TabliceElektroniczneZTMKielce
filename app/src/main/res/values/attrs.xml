@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="rectangleColor" format="color|reference"></attr>
+    <attr name="ovalColor" format="color|reference"></attr>
+    <attr name="borderColor" format="color|reference"></attr>
+</resources>

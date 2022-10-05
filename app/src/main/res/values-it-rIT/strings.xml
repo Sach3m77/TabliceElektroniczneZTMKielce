@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paline Informative ZTM Kielce</string>
+    <string name="language">Lingua</string>
+    <string name="dark_theme">Scuro</string>
+    <string name="light_theme">Chiaro</string>
+    <string name="system">Del sistema</string>
+    <string name="theme">Tema</string>
+    <string name="general">Generali</string>
+    <string name="settings">Impostazioni</string>
+    <string name="favorite_stops">Fermate preferite</string>
+    <string name="map">Mappa</string>
+    <string name="enter_address">Cerca qui</string>
+    <string name="no_favorite_stops">No hai nussuna fermata preferita.</string>
+    <string name="navigation_drawer_open">Apri il cassetto di navigazione</string>
+    <string name="navigation_drawer_close">Chiudi il cassetto di navigazione</string>
+    <string name="header_title">Paline Informative ZTM</string>
+    <string name="stop_added_to_favorites">La fermata è stata aggiunta ai preferiti</string>
+    <string name="stop_removed_from_favorites">La fermata è stata rimossa dai preferiti</string>
+    <string name="stops_removed_from_favorites">Le fermate sono state rimosse dai preferiti</string>
+</resources>
