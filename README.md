@@ -1,6 +1,6 @@
 # **TabliceElektroniczneZTMKielce**
 ## A mobile application for Android that allows the user to see the real-time timetable of bus stops in and around Kielce.
-### Technologies: Java, SQL, Android SDK
+### Technologies: Java, SQL, Android SDK, Google Maps API
 
 &nbsp;
 
